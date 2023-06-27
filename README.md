@@ -1,2 +1,2 @@
 # hello again
-hello demo repo fo cloudDevOps TEST
+hello demo repo fo cloudDevOps
